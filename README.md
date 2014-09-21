@@ -1,6 +1,5 @@
-
-
 Original Experiment
+===============
 
 Source: Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. 
 Smartlab - Non Linear Complex Systems Laboratory 
@@ -33,6 +32,8 @@ Analysis Script
 
 The analysis script can be found in the file run_analysis.R, in order to execute the script successfully the original dataset needs to be present in a folder named 'HAR' in your working directory. The script will generate the file reportSummary.txt in your working directory containing the resulting analysis/transformation.
 
+
+Please see Code Book (CodeBook.md) for more information about the generated dataset.
 
 
 License:
